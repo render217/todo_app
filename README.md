@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Windbnb</h1>
+<h1 align="center">#todo</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://windbnb-dusky.vercel.app/" target="_blank">
+    <a href="https://todo-app-six-liard.vercel.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
